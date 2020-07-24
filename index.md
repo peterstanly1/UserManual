@@ -5,10 +5,11 @@ User Manual V 0.28
 Primary:-<br>
 Social Justice<br>
 Liberation Theology<br>
-Business + Financial Markets<br>
 Technology<br>
 Philosophy<br>
 Global Politics & Law<br>
+Business + Financial Markets<br>
+
 Secondary:-<br>
 Personality Psychology<br>
 Science - Natural & Social<br>
