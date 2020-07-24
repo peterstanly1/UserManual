@@ -7,6 +7,7 @@ Social Justice, Liberation Theology, Technology, Philosophy, Global Politics & L
 Secondary:-<br>
 Personality Psychology, Science - Natural & Social, Engineering + DIY
 <br>
+
 #Communications<br>
 I live in email and treat it like IM.  Please don’t be offended by brevity and terse emails.<br>
 Please don’t call, text, or dm.  Email please.<br>
