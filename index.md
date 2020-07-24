@@ -1,20 +1,11 @@
 User Manual V 0.28
 
-
 #Passions + Areas of interest<br>
 Primary:-<br>
-Social Justice<br>
-Liberation Theology<br>
-Technology<br>
-Philosophy<br>
-Global Politics & Law<br>
-Business + Financial Markets<br>
+Social Justice, Liberation Theology, Technology, Philosophy, Global Politics & Law, Business + Finance
 
 Secondary:-<br>
-Personality Psychology<br>
-Science - Natural & Social<br>
-Engineering + DIY<br>
-. . . <br>
+Personality Psychology, Science - Natural & Social, Engineering + DIY
 <br>
 #Communications<br>
 I live in email and treat it like IM.  Please don’t be offended by brevity and terse emails.<br>
