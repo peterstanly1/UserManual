@@ -37,4 +37,4 @@ If I am a jerk, do something dumb or generally seem oblivious, please please ple
 If you have suggestions for this document please let me know so I can add them. It is a work in progress.<br>
 <br>        
 Find my latest brain dump here -> <a href="https://www.peterstanly.com/blog" target="_blank">Carbon + Silicon</a><br>
-
+[HOME](/blog)
