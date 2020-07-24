@@ -28,4 +28,4 @@ If I am a jerk, do something dumb or generally seem oblivious, please please ple
 If you have suggestions for this document please let me know so I can add them. It is a work in progress.<br>
 <br>
 [HOME](/blog) <br>
-[Carbon + Silicon](/carbonsilicon)<br>
+[Carbon + Silicon](/carbonsilicon)
