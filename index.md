@@ -1,7 +1,7 @@
 User Manual V 0.28
 
 
-/Passions<br>
+/Passions + Areas of interest<br>
 Primary:-<br>
 Social Justice<br>
 Liberation Theology<br>
