@@ -36,4 +36,5 @@ You might find me rude if I refuse a meeting or ask to do it over email. Sorry. 
 If I am a jerk, do something dumb or generally seem oblivious, please please please let me know. I often have no clue. Your feedback is priceless and I love it. I value constructive criticisms over compliments.<br>
 If you have suggestions for this document please let me know so I can add them. It is a work in progress.<br>
 <br>
-[HOME](/blog) [Carbon + Silicon](/carbonsilicon)
+[HOME](/blog) <br>
+[Carbon + Silicon](/carbonsilicon)<br>
