@@ -25,7 +25,7 @@ I quite dislike setting up a call or meeting to “chat”<br>
 You might find me rude if I refuse a meeting or ask to do it over email. Sorry. I am just trying to save us both wasted time.<br>
 <br>
 #Personal<br>
-If I am a jerk, do something dumb or generally seem oblivious, please please please let me know. I often have no clue. Your feedback is priceless and I love it. I value constructive criticisms over compliments.<br>
+If I am a jerk, do something dumb or generally seem oblivious, please please let me know. I often have no clue - they call us neurodivergent for a reason;). Your feedback is priceless and I love it. I value constructive criticisms over compliments.<br>
 If you have suggestions for this document please let me know so I can add them. It is a work in progress.<br>
 <br>
 [HOME](/blog) <br>
