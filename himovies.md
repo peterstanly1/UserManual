@@ -5,7 +5,7 @@
     <title>himovies</title>
 </head>
 <body>
-    <iframe src="https://www5.himovies.to/home" sandbox="allow-fullscreen"></iframe>
+    <iframe src="https://www5.himovies.to/home" sandbox="allow-scripts"></iframe>
 
 </body>
 </html>
