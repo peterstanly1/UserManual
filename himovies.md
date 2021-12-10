@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>himovies</title>
+
+    <title>Document</title>
 </head>
 <body>
-    <iframe src="https://www5.himovies.to/home" sandbox="allow-scripts"></iframe>
+    <iframe src="https://www5.himovies.to/home" sandbox="allow-top-navigation allow-scripts" allowfullscreen></iframe>
 
 </body>
 </html>
